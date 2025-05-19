@@ -1,1 +1,1 @@
-# odin-recipes
+We will be making links to recipes. Will just be pure html for now
